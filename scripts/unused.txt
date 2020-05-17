@@ -1,0 +1,47 @@
+Album X
+AlbumArtist X
+Artist X
+AutoBasedOnLanguageSetting
+ButtonViewWebsite
+ColorPrimaries X
+ColorSpace X
+ColorTransfer X
+CopyStreamURLError
+Directors X
+HeaderAutomaticUpdates
+HeaderFavoriteBooks X
+HeaderFavoriteMovies X
+HeaderFavoriteShows X
+HeaderFavoriteEpisodes X
+HeaderFavoriteAlbums X
+HeaderFavoritePeople X
+HeaderFavoriteArtists X
+HeaderFavoriteSongs X
+HeaderFavoriteVideos X
+HeaderFavoritePlaylists X
+Items
+LabelAllowServerAutoRestart
+LabelAllowServerAutoRestartHelp
+LabelFolder
+LabelYourFirstName
+LinksValue
+MediaInfoSoftware
+MediaInfoStreamTypeAudio X
+MediaInfoStreamTypeData X
+MediaInfoStreamTypeEmbeddedImage X
+MediaInfoStreamTypeSubtitle X
+MediaInfoStreamTypeVideo X
+MessageInstallPluginFromApp
+MessageUnauthorizedUser
+OptionBanner X
+OptionList X
+OptionPoster X
+OptionPosterCard X
+OptionThumb X
+OptionThumbCard X
+OtherArtist
+PlaybackErrorNoCompatibleStream X
+ReleaseGroup
+TabPlaylist
+Track
+VideoRange

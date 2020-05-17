@@ -34,7 +34,7 @@ for lang in langlst:
         for key in langjson:
             if key in keysus:
                 langjnew[key] = langjson[key]
-            else if key not in missing:
+            elif key not in missing:
                 missing.append(key)
         f.seek(0)
         f.write(json.dumps(langjnew, indent=inde, sort_keys=False, ensure_ascii=False))
